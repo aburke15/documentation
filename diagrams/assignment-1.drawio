@@ -88,8 +88,18 @@
                 <mxCell id="84" value="false" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
                     <mxGeometry x="1313.75" y="585" width="60" height="30" as="geometry"/>
                 </mxCell>
+                <mxCell id="116" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="85">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1260" y="770" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
                 <mxCell id="85" value="min = userInput" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
                     <mxGeometry x="1038.5" y="740" width="127" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="115" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="86">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="1260" y="770" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
                 <mxCell id="86" value="max = userInput" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
                     <mxGeometry x="1360" y="740" width="125.5" height="60" as="geometry"/>
